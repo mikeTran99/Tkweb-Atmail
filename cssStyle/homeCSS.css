@@ -1,0 +1,39 @@
+
+#bg {
+    padding-top: 12em;
+    text-align: center;
+    color: #ffffff;
+    line-height: 48px;
+    height: 575px;
+    max-width: 100%;
+}
+
+
+h1, btn {
+    margin-top: 2.8em;
+}
+p {
+    margin-top: 1.2em;
+    font-size: 20px;
+    line-height: 1.5em;
+}
+#logoAt {
+    margin-bottom: 1em;
+}
+
+#nutTrai {
+    margin-right: 1em
+}
+
+#logo {
+    width: 118px;
+    height: 118px;
+}
+
+#groupbtn {
+    margin-top: 8em;
+}
+
+#banner {
+    margin-top: 5em;
+}

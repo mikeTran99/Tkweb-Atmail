@@ -1,0 +1,103 @@
+﻿#bg h1 {
+    color: rgb(66, 85, 99);
+    font-size: 32px;
+    line-height: 38px;
+    margin-top: 3em;
+    padding-left: 11%;
+}
+
+#bg p {
+    color: rgb(66, 85, 99);
+    font-size: 20px;
+    line-height: 26px;
+    padding-left: 11%;
+}
+
+h3 {
+    margin-top: 3em;
+    line-height: 32px;
+}
+
+p {
+    margin-top: 1.6em;
+    font-size: 16.5px;
+    color: #63666a;
+}
+
+
+.carousel-indicators li {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    margin: 1px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #000\9;
+    background-color: orange;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    padding-top: 0em;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 5em;
+}
+
+hr {
+    border: 3px solid #F68D2E;
+    width: 8%;
+}
+
+#h3 h3 {
+    text-align: left;
+}
+
+#h3 span {
+    color: #f68d2e;
+}
+
+#history {
+    margin-top: 3em;
+    padding-bottom: 1.5em;
+    background-color: #4ec3e0;
+}
+
+    #history h2 {
+        color: #ffffff;
+        text-align: center;
+        margin-top: 1em;
+    }
+
+#circle h4 {
+    color: #f68d2e;
+    text-align: center;
+}
+
+#circle p {
+    text-align: center;
+}
+
+.container {
+    margin-top: 2em;
+}
+
+#investor p {
+    text-align: center;
+}
+
+#investor center {
+    margin-top: 6em;
+}
+
+#wtju span {
+    font-size: 16px;
+}
+
+#wtju p {
+    color: #333333;
+}
+
+#wtju button {
+    margin-top: 2em;
+}

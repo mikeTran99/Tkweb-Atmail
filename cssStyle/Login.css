@@ -1,0 +1,112 @@
+﻿header {
+    background-color: #3d5563;
+}
+
+h1, h3 {
+    text-align: center;
+    color: #3d5563;
+    line-height: 1.5em;
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 20em;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+li {
+    width: 50%;
+}
+
+.container {
+    margin-top: 3em;
+    max-width: 700px;
+    border: 1px solid #ddd;
+}
+
+.nav-tabs > li > a {
+    margin-right: 2px;
+    line-height: 1.42857143;
+    border: 1px solid transparent;
+    border-radius: 4px 4px 0 0;
+    text-align: center;
+}
+
+.btn-inverse {
+    color: #FFFFFF;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    background-color: #F68D2E;
+    border: 1px solid #F68D2E;
+}
+
+.w3-black, .w3-hover-black:hover {
+    color: #fff !important;
+    background-color: #cac7c7 !important;
+}
+
+.w3-bar .w3-button {
+    white-space: normal;
+    width: 50%;
+}
+
+#img {
+    height: 45px;
+    margin-top: 3px;
+}
+
+h1 {
+    padding-top: 100px;
+    text-align: center;
+}
+
+h3 {
+    margin: 0 auto;
+}
+
+#user {
+    margin-top: 2em;
+}
+
+#asmall {
+    margin-left: 6em;
+}
+
+#submit {
+    margin-bottom: 3em;
+}
+
+fieldset {
+    border: none;
+}
+
+.col-md-6 {
+    margin-top: 1.5em;
+}
+
+label {
+    display: block;
+    border-radius: 1px;
+}
+
+button, select {
+    text-transform: none;
+    max-width: 70%;
+}
+
+required {
+    font-weight: normal;
+}
+
+.contain {
+    margin-bottom: 3em;
+}
+
+.create {
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+.sign {
+    color: #ff6a00;
+}

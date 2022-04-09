@@ -1,0 +1,90 @@
+﻿.nav-tabs > li > a {
+    margin-right: 2px;
+    line-height: 1.42857143;
+    border: 1px solid transparent;
+    border-radius: 4px 4px 0 0;
+    text-align: center;
+}
+
+header {
+    background-color: #3d5563;
+}
+
+h1, h3 {
+    text-align: center;
+    color: #3d5563;
+    line-height: 1.5em;
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 20em;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#img {
+    height: 45px;
+    margin-top: 3px;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 60px;
+    font-family: 'Raleway-Light', Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+
+hr {
+    border: 2px solid;
+    border-color: #F58232;
+    width: 6%;
+    margin-top: 7px;
+    margin-bottom: 15px;
+    margin-left: 51em;
+    padding: 0;
+    letter-spacing: 0px;
+    font-weight: 400;
+    line-height: 47px;
+}
+
+#bg p {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: 'Raleway-Light', Helvetica Neue, Helvetica, Arial, sans-serif;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+textarea {
+    font-family: inherit;
+    font-size: inherit;
+    width: 82%;
+    line-height: inherit;
+    border-radius: 5px;
+}
+
+input, select {
+    width: 70%;
+    margin-top: 1.5em;
+}
+
+.contain {
+    max-width: 100%;
+}
+
+#infor {
+    margin-top: 1.5em;
+}
+
+#areaR {
+    border-left: dotted;
+}
+
+.btn-inverse {
+    background-color: #F58232;
+}
+
+h4 {
+    margin-top: 1.8em;
+}
